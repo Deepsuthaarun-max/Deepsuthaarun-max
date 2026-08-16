@@ -74,7 +74,7 @@ $ current_focus
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepsuthaarun-max&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userDeepsuthaarun-max&theme=chartreuse-dark&hide_border=true&background=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepsuthaarun-max&theme=chartreuse-dark&hide_border=true&background=0d1117" width="48%" />
 </p>
 
 <p align="center">
@@ -83,8 +83,9 @@ $ current_focus
 
 ### 🤝 Let's Connect
 
-**LinkedIn:** https://www.linkedin.com/in/deepsuthaarun-r-65b125421/
-**Email:** deepsuthaarun@gmail.com
+**LinkedIn:** [linkedin.com/in/deepsuthaarun-r-65b125421](https://www.linkedin.com/in/deepsuthaarun-r-65b125421/)
+<br/>
+**Email:** [deepsuthaarun@gmail.com](mailto:deepsuthaarun@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=Always%20learning.%20Always%20breaking%20things%20(safely).&fontColor=2EE6A6&fontSize=16&animation=twinkling" />
